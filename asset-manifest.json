@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shop-app/static/css/main.771814d8.css",
+    "main.css": "/shop-app/static/css/main.79f2ada7.css",
     "main.js": "/shop-app/static/js/main.8582e7b0.js",
     "static/media/banner.jpg": "/shop-app/static/media/banner.deab7c702ca01f116f0e.jpg",
     "static/media/Yekan.woff": "/shop-app/static/media/Yekan.314cf662b932d4ca1271.woff",
     "static/media/onlinephoto.png": "/shop-app/static/media/onlinephoto.1566238bfadc99bac8c1.png",
     "index.html": "/shop-app/index.html",
-    "main.771814d8.css.map": "/shop-app/static/css/main.771814d8.css.map",
+    "main.79f2ada7.css.map": "/shop-app/static/css/main.79f2ada7.css.map",
     "main.8582e7b0.js.map": "/shop-app/static/js/main.8582e7b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.771814d8.css",
+    "static/css/main.79f2ada7.css",
     "static/js/main.8582e7b0.js"
   ]
 }
