@@ -1,0 +1,22 @@
+.loading{
+    display: grid;
+    place-items: center;
+    margin-top: 20rem;
+}
+
+.loading::before {
+    box-sizing: border-box;
+    content: '';
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-top: 2px solid teal;
+    border-bottom: 2px solid transparent;
+    animation: spinner 0.7s linear infinite;
+}
+
+@keyframes spinner {
+    to {
+        transform: rotate(360deg);
+    }
+}
